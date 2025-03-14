@@ -1,5 +1,13 @@
 # viem
 
+## 2.23.11
+
+### Patch Changes
+
+- [#3445](https://github.com/wevm/viem/pull/3445) [`ea5a0ced1210873df75920b1c9d8afcbc8c6359e`](https://github.com/wevm/viem/commit/ea5a0ced1210873df75920b1c9d8afcbc8c6359e) Thanks [@UnsignedInt8](https://github.com/UnsignedInt8)! - Added assertion for non-null data in `simulateBlocks`.
+
+- [#3437](https://github.com/wevm/viem/pull/3437) [`988ee7c89e5e9bb49e455704084c826ae3875101`](https://github.com/wevm/viem/commit/988ee7c89e5e9bb49e455704084c826ae3875101) Thanks [@abs3ntdev](https://github.com/abs3ntdev)! - Added nibiru chain
+
 ## 2.23.10
 
 ### Patch Changes
